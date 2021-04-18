@@ -1,8 +1,11 @@
 body{
-    background-color: rgba(128, 187, 172, 0.233);
+
+    background-image: url(https://i.pinimg.com/originals/da/42/64/da4264a33bbcfcd56d3cb80e26430518.png);
+    background-color: rgba(231, 148, 220, 0.233);
     color:black
 }
 h1{
+    padding-top: 20px;
     font-size: 50px;
 }
 a:link{
@@ -16,8 +19,37 @@ a:link{
     text-decoration: none;
     text-align: top;
 }
-.details
-{
+.self{
     text-align: center;
-    font-size: 35px;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;"
+}
+.intro{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+.lis{
+    padding-left: 700px; 
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+
+}
+.pr{
+    padding-left: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.tx{
+    padding-right: 300px;
+    text-align: center;
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.t{
+    padding-left: 250px;
+    font-size:20px;
+    font-family: 'Courier New', Courier, monospace;
+    
+
 }
