@@ -1,0 +1,23 @@
+body{
+    background-color: rgba(128, 187, 172, 0.233);
+    color:black
+}
+h1{
+    font-size: 50px;
+}
+a:link{
+    color: black;
+    background-color: whitesmoke;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+    border:black;
+    border-style:solid;
+    float: right;
+    text-decoration: none;
+    text-align: top;
+}
+.details
+{
+    text-align: center;
+    font-size: 35px;
+}
